@@ -1,284 +1,85 @@
-<div align="center">
+# 💫 About Me:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151025,35:312E81,70:6D28D9,100:8B5CF6&height=240&section=header&text=Pranayteja%20Bojja&fontSize=48&fontColor=F5F3FF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%7C%20Human-Centered%20AI%20%7C%20Full%20Stack&descAlignY=58&descSize=16" width="100%" alt="Pranayteja Bojja — Software Engineering, Human-Centered AI, Full Stack" />
+🤖 Exploring human-centered AI and analytics<br>
+💻 Building my skills in full stack development<br>
+🔭 My B.Tech major project focuses on accessibility, engagement, and trust in data platforms<br>
+🤝 Open to collaborating on useful, accessible software<br>
+🌱 Working with React, TypeScript, and modern web tooling
 
-[![Typing introduction](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=780&height=55&lines=Building+thoughtful+software.;Exploring+human-centered+AI.;Connecting+data%2C+interfaces%2C+and+people.)](https://github.com/pranaytejabojja-2022)
+🌐 **Check out my projects:** [github.com/pranaytejabojja-2022](https://github.com/pranaytejabojja-2022?tab=repositories)
 
-![Academic Project](https://img.shields.io/badge/B.Tech-Final_Year_Major_Project-6D28D9?style=flat-square&labelColor=171327)
-![Focus](https://img.shields.io/badge/Focus-Human--Centered_AI-7C3AED?style=flat-square&labelColor=171327)
+## 💻 Languages and Tools
 
-<br />
+### AI/ML
 
-[![Project Portfolio](https://img.shields.io/badge/Project_Portfolio-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranaytejabojja-2022?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaytejabojja@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranaytejabojja-2022)
-
-<br />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=pranaytejabojja-2022&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square)](https://github.com/pranaytejabojja-2022)
-[![Followers](https://img.shields.io/github/followers/pranaytejabojja-2022?label=Followers&style=flat-square&color=8B5CF6&labelColor=171327)](https://github.com/pranaytejabojja-2022?tab=followers)
-[![Stars](https://img.shields.io/github/stars/pranaytejabojja-2022?label=Stars&style=flat-square&color=6366F1&labelColor=171327)](https://github.com/pranaytejabojja-2022?tab=repositories)
-
-</div>
-
----
-
-## About
-
-I'm **Pranayteja Bojja**, building my engineering portfolio around software development, human-centered AI, and useful web applications. My B.Tech final-year major project explores **accessibility, engagement, and trust in data platforms**.
-
-My public project brings together **React, TypeScript, Vite, shadcn/ui, and Tailwind CSS**, with Supabase configuration in the repository. I'm interested in how full stack engineering can connect data-driven capabilities with clear, approachable interfaces.
-
-My engineering focus is to develop maintainable software, understand the systems behind the interface, and connect technical decisions with the people using the product. In AI / ML, my current direction is human-centered analytics: making intelligent experiences understandable, accessible, and useful.
-
-### Open To
-
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-6D28D9?style=for-the-badge)
-![AI Projects](https://img.shields.io/badge/AI_Projects-7C3AED?style=for-the-badge)
-![Full Stack Collaboration](https://img.shields.io/badge/Full_Stack_Collaboration-4F46E5?style=for-the-badge)
-
----
-
-## Tech Stack
-
-### Languages
-
-<div align="center">
-
-[![Languages](https://skillicons.dev/icons?i=ts,html,css&theme=dark)](https://skillicons.dev)
-
-</div>
+[![Human-Centered AI](https://img.shields.io/badge/Human--Centered_AI-Academic_Project-7C3AED?style=flat-square)](https://github.com/pranaytejabojja-2022/HUMAN-CENTERED-AI-ANALYTICS-ENHANCING-ACCESSIBILITY-ENGAGEMENT-AND-TRUST-IN-DATA-PLATFORMS)
 
 ### Frontend
 
-<div align="center">
+[![Frontend](https://skillicons.dev/icons?i=html,css,ts,react,tailwind,vite&theme=dark)](https://skillicons.dev)
 
-[![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark)](https://skillicons.dev)
-
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Component_Library-7C3AED?style=flat-square&labelColor=171327)
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
+### Backend
 
 [![Backend](https://skillicons.dev/icons?i=supabase&theme=dark)](https://skillicons.dev)
 
-</div>
+### Database
 
-### Cloud, DevOps & Tooling
+Supabase-backed application configuration in my [major project](https://github.com/pranaytejabojja-2022/HUMAN-CENTERED-AI-ANALYTICS-ENHANCING-ACCESSIBILITY-ENGAGEMENT-AND-TRUST-IN-DATA-PLATFORMS).
 
-<div align="center">
+### Design
 
-[![Tooling](https://skillicons.dev/icons?i=github,githubactions,npm&theme=dark)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=css,tailwind&theme=dark)](https://skillicons.dev)
 
-</div>
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
----
+### Tools
 
-## AI / ML Expertise
+[![Tools](https://skillicons.dev/icons?i=github,githubactions,npm,vite&theme=dark)](https://skillicons.dev)
 
-| Domain | Proficiency | Details |
-|:-------|:------------|:--------|
-| **Human-Centered AI** | Academic project focus | Exploring accessibility, engagement, and trust in AI analytics platforms. |
-| **Analytics Interfaces** | Project-based development | React and TypeScript interface development for a data-platform project. |
-| **AI Product Engineering** | Developing | Connecting AI-oriented product goals with usable web experiences. |
-| **Model Evaluation & MLOps** | Learning direction | Interested in evaluation, reproducibility, and dependable deployment; no benchmark claims published. |
+## 🕸️ Other Links
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranaytejabojja@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranaytejabojja-2022)
+[![Projects](https://img.shields.io/badge/Project_Portfolio-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/pranaytejabojja-2022?tab=repositories)
 
-## Featured Projects
+# 🛠️ Complete Tech Stack:
 
-<details open>
-<summary><strong>01 · Human-Centered AI Analytics</strong></summary>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-<br />
+# 📊 GitHub Stats:
 
-**Enhancing Accessibility, Engagement, and Trust in Data Platforms**
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranaytejabojja-2022&theme=highcontrast&hide_border=false)](https://github.com/pranaytejabojja-2022)
 
-A B.Tech final-year major project centered on human-centered AI analytics. The project explores how a web-based data platform can support more accessible, engaging, and trustworthy experiences.
-
-| Dimension | Engineering Details |
-|:----------|:--------------------|
-| **Stack** | TypeScript, React, Vite, shadcn/ui, Tailwind CSS; Supabase configuration. |
-| **Scale** | Academic major project; public source repository. |
-| **Performance** | Quantitative benchmarks have not been published. |
-| **Security** | Security validation and audit results have not been published. |
-| **Impact** | Project objective: improve accessibility, engagement, and trust in data platforms. |
-| **Repository** | [Explore the source code](https://github.com/pranaytejabojja-2022/HUMAN-CENTERED-AI-ANALYTICS-ENHANCING-ACCESSIBILITY-ENGAGEMENT-AND-TRUST-IN-DATA-PLATFORMS) |
-
-### Engineering Perspective
-
-The project connects a human-centered problem statement with a modern component-based web stack. React and TypeScript support the application interface, while Vite and Tailwind CSS provide the development and styling foundation.
-
-- **Product focus:** accessibility, engagement, and trust in data experiences.
-- **Frontend foundation:** typed UI development with React and TypeScript.
-- **Interface composition:** shadcn/ui components and Tailwind CSS styling.
-- **Project context:** B.Tech final-year major project with publicly available source.
-
-[![Repository](https://img.shields.io/badge/Explore_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranaytejabojja-2022/HUMAN-CENTERED-AI-ANALYTICS-ENHANCING-ACCESSIBILITY-ENGAGEMENT-AND-TRUST-IN-DATA-PLATFORMS)
-[![Documentation](https://img.shields.io/badge/Read_Documentation-312E81?style=for-the-badge)](https://github.com/pranaytejabojja-2022/HUMAN-CENTERED-AI-ANALYTICS-ENHANCING-ACCESSIBILITY-ENGAGEMENT-AND-TRUST-IN-DATA-PLATFORMS#readme)
-
-</details>
-
----
-
-## Experience
-
-### Academic Project Development · B.Tech Major Project
-
-**Final-year academic project**
-
-My public engineering portfolio currently features a human-centered AI analytics project, bringing together an AI-oriented problem statement and a modern web application stack.
-
-- Focus on accessibility, engagement, and trust in data platforms.
-- Work with a React and TypeScript application structure.
-- Build a portfolio around practical software and product engineering.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4F46E5?style=flat-square&logo=tailwindcss&logoColor=white)
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:-----------:|:--------|
-| **Academic Project Showcase** | Publicly shared B.Tech final-year major project on human-centered AI analytics. |
-
-</div>
-
----
-
-## Certifications
-
-Certification details and verification links are not listed yet.
-
----
-
-## Coding Profiles
-
-Coding-platform profile links are not listed yet. Explore my public development work on GitHub.
-
-<div align="center">
-
-[![Explore My Code](https://img.shields.io/badge/Explore_My_Code-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranaytejabojja-2022?tab=repositories)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/pranaytejabojja-2022"><img src="https://github-stats-extended.vercel.app/api?username=pranaytejabojja-2022&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&border_radius=12" height="180" alt="GitHub statistics" /></a>
-<a href="https://github.com/pranaytejabojja-2022"><img src="https://streak-stats.demolab.com?user=pranaytejabojja-2022&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=F5F3FF&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&border_radius=12" height="180" alt="GitHub contribution streak" /></a>
-
-<br />
-<br />
-
-<a href="https://github.com/pranaytejabojja-2022?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranaytejabojja-2022&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12" height="190" alt="Languages in public repositories" /></a>
-
-</div>
-
----
-
-## GitHub Trophies
-
-The external trophy service is currently unavailable.
+### 🏆 GitHub Trophies
 
 <details>
-<summary><strong>GitHub trophy widget</strong></summary>
+<summary>View trophy card</summary>
 
-<div align="center">
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pranaytejabojja-2022&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=pranaytejabojja-2022&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/pranaytejabojja-2022)
-
-</div>
+<sub>The external trophy service is currently unavailable.</sub>
 
 </details>
 
----
+### ✍️ Random Dev Quote
 
-## Contribution Activity
+![Random developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-The external graph service is temporarily paused. [View my live GitHub contribution history](https://github.com/pranaytejabojja-2022#year-list-container).
+### 🔝 Featured Repo
 
-<details>
-<summary><strong>Activity graph widget</strong></summary>
-
-<div align="center">
-
-<a href="https://github.com/pranaytejabojja-2022"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaytejabojja-2022&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&radius=12&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" /></a>
-
-</div>
-
-</details>
+[![Human-Centered AI Analytics](https://github-stats-extended.vercel.app/api/pin/?username=pranaytejabojja-2022&repo=HUMAN-CENTERED-AI-ANALYTICS-ENHANCING-ACCESSIBILITY-ENGAGEMENT-AND-TRUST-IN-DATA-PLATFORMS&theme=radical&hide_border=true)](https://github.com/pranaytejabojja-2022/HUMAN-CENTERED-AI-ANALYTICS-ENHANCING-ACCESSIBILITY-ENGAGEMENT-AND-TRUST-IN-DATA-PLATFORMS)
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<a href="https://github.com/pranaytejabojja-2022"><img src="https://raw.githubusercontent.com/pranaytejabojja-2022/pranaytejabojja-2022/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Purple contribution snake animation" /></a>
-
-[![Contribution Snake](https://github.com/pranaytejabojja-2022/pranaytejabojja-2022/actions/workflows/snake.yml/badge.svg)](https://github.com/pranaytejabojja-2022/pranaytejabojja-2022/actions/workflows/snake.yml)
-
-</div>
-
----
-
-## Current Focus
-
-
-```yaml
-Learning:
-  - Maintainable software architecture
-  - AI evaluation and trustworthy analytics
-  - Full stack application development
-
-Building:
-  - My software engineering portfolio
-  - Human-centered data experiences
-
-Exploring:
-  - Accessible analytics interfaces
-  - Product engineering and developer tooling
-
-Open To:
-  - Software engineering opportunities
-  - AI and full stack projects
-  - Open source collaboration
-```
-
----
-
-## Connect
-
-<div align="center">
-
-**Let's connect around thoughtful engineering and useful products.**
-
-<br />
-
-[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranaytejabojja@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranaytejabojja-2022)
-[![Project Portfolio](https://img.shields.io/badge/Project_Portfolio-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranaytejabojja-2022?tab=repositories)
-
-</div>
-
----
-
-<div align="center">
-
-*“Build with clarity. Learn with purpose. Engineer for people.”*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151025,35:312E81,70:6D28D9,100:8B5CF6&height=130&section=footer" width="100%" alt="Purple wave footer" />
-
-</div>
+[![Profile views](https://komarev.com/ghpvc/?username=pranaytejabojja-2022&label=Profile%20views&color=7C3AED&style=flat-square)](https://github.com/pranaytejabojja-2022)
