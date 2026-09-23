@@ -1,0 +1,36 @@
+name: Contribution Snake
+on:
+  schedule:
+    - cron: '17 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/snake.yml']
+permissions:
+  contents: write
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate purple contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: pranaytejabojja-2022
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A78BFA&color_dots=#161B22,#312E81,#5B21B6,#7C3AED,#A78BFA
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish SVG to output branch
+        run: |
+          cp dist/github-contribution-grid-snake-dark.svg "$RUNNER_TEMP/snake.svg"
+          git checkout --orphan output
+          git rm -rf .
+          cp "$RUNNER_TEMP/snake.svg" github-contribution-grid-snake-dark.svg
+          git add github-contribution-grid-snake-dark.svg
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update contribution snake'
+          git push origin HEAD:output --force
